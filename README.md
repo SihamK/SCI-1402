@@ -1,4 +1,5 @@
 BUT : trouver le bon modèle qui permet de prédire si un patient a le diagnostic de La maladie d'Alzheimer 
+
 L’ensemble de données contient des informations sur la santé de 2 149 patients, chacun patient est identifié de manière unique (ID). 
 L'ensemble de données comprend des 
 -	Détails démographiques (Age, Sexe, niveau d’éducation, Ethnicité), 
